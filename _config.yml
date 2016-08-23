@@ -1,0 +1,14 @@
+layout_spectrum: 0.3228500986006111
+typography_spectrum: 0.015477696433663368
+color:
+  brandStrength: 0.05641226866282523
+  lightness: 0.10799215640872717
+  saturation: 0.011215751292183995
+  rhythmicContrast: 0.2399558792822063
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Design School
