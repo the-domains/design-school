@@ -6,9 +6,9 @@ color:
   saturation: 0.011215751292183995
   rhythmicContrast: 0.2399558792822063
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: Design School
