@@ -1,4 +1,3 @@
-layout_spectrum: 0.3228500986006111
 typography_spectrum: 0.015477696433663368
 color:
   brandStrength: 0.05641226866282523
@@ -11,4 +10,9 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+layout_spectrum: 0.3228500986006111
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5d0fd8c-ea0b-46e0-82fa-5a92c2038f72.png
 name: Design School
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/51395cd5-d54c-41f8-b034-98d5f033b723.png
